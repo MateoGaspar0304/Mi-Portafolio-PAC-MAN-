@@ -1,6 +1,8 @@
 ## Mi-Portafolio "PAC-MAN" 🚩
 <h3>Descripcíón</h3>
 Este es un portafolio creado en HTML, JavaScript y CSS usando como IDE el Visual Studio Code.
+Todos conocemos el famoso juego del PAC-MAN, su estructura es el HTML5, para darle color y vida utilice los estilos CSS
+el movimiento de las figuras, el lenguaje de JavaScript👽️.
 
 ### Autor 🧑‍💻
 **Mateo Fernandez**
